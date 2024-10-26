@@ -1,0 +1,5 @@
+<settings>
+    <category label="General">
+        <setting id="scraper_url" type="text" default="https://webtorrent.io/free-torrents" label="URL a escanear" />
+    </category>
+</settings>
