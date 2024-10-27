@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+  <addon id="plugin.video.Extractor" name="Extractor" version="1.0.1" provider-name="Junji">
+    <extension point="xbmc.python.pluginsource" library="default.py" />
+    <extension point="xbmc.addon.metadata">
+      <summary language="es">Extrae y reproduce enlaces compatibles</summary>
+      <description language="es">Necesario Horus</description>
+      <platform>all</platform>
+    </extension>
+  </addon>
+</addons>
