@@ -57,3 +57,11 @@ Las contribuciones son bienvenidas. Por favor, abre un `issue` para discutir cua
 ## Contacto
 
 Si tienes preguntas o sugerencias, no dudes en contactarme a través de GitHub.
+
+## Capturas de pantalla
+
+Aquí tiene algunas capturas de pantalla del addon:
+
+![Captura 1](plugin.video.Extractor/resources/media/Captura1.jpg)
+![Captura 2](plugin.video.Extractor/resources/media/Captura2.jpg)
+![Captura 3](plugin.video.Extractor/resources/media/Captura3.jpg)
