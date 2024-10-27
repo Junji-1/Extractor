@@ -60,8 +60,10 @@ Si tienes preguntas o sugerencias, no dudes en contactarme a través de GitHub.
 
 ## Capturas de pantalla
 
-Aquí tiene algunas capturas de pantalla del addon:
-
-![Captura 1](plugin.video.Extractor/resources/media/Captura1.jpg)
-![Captura 2](plugin.video.Extractor/resources/media/Captura2.jpg)
-![Captura 3](plugin.video.Extractor/resources/media/Captura3.jpg)
+<table>
+  <tr>
+    <td><img src="plugin.video.Extractor/resources/media/Captura1.jpg" width=270></td>
+    <td><img src="plugin.video.Extractor/resources/media/Captura2.jpg" width=270></td>
+    <td><img src="plugin.video.Extractor/resources/media/Captura3.jpg" width=270></td>
+  </tr>
+</table>
