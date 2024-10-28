@@ -6,7 +6,8 @@
 ## [1.0.1] - 2024-10-26
 - Primera versión pública.
 - Añadido soporte para enlaces acestream.
-- Añadido soporte para listas en formato m3u.
+- Compatibilidad con listas m3u.
+- Interfaz fácil de usar para cambiar la URL de origen.
 
 ## [1.0.0] - YYYY-MM-DD
 - Primera versión.
