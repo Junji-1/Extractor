@@ -16,7 +16,7 @@ Extractor es un addon para Kodi que permite acceder a contenido público y legal
 
 ### Opción 1: Desde el archivo ZIP
 
-1. Descargue el archivo ZIP del addon desde la sección de [Releases](docs/).
+1. Descargue el archivo ZIP de la última versión del addon desde [Releases](https://github.com/Junji-1/Extractor/releases/latest).
 2. En Kodi, vaya al "Explorador de add-ons" y seleccione "Instalar desde un archivo .zip".
 3. Vaya hasta el archivo ZIP que descargó anteriormente e instálelo.
 
@@ -43,8 +43,7 @@ No apoyamos ni promovemos el acceso a contenido ilegal.
 
 ## Historial de Cambios
 
-Para ver los cambios realizados en cada versión, consulta el archivo [CHANGELOG.md](docs/CHANGELOG.md).
-
+Para ver los cambios realizados en cada versión, consulta el archivo [CHANGELOG.md](CHANGELOG.md).
 
 ## Licencia
 
